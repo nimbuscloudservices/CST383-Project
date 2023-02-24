@@ -44,11 +44,11 @@ Additionally we had to encode subject_race as it was catergorical data which wou
 ## Results
 ![citation_warnings__stops_by_sex](https://user-images.githubusercontent.com/40731237/221105152-2c0566ab-66ac-41f7-a6b8-78c5bfc2c7b2.png)
 
-First we will explore two differnt variables in from the datase. On the left plot, we conducted a bar plot that displays the amount of citations vs warnings that were given. We see that police officers in this dataset gave more citations than warnings. Next, we see that police officers performed traffic stops on male subjects more than females.
+First we explored two differnt variables in from the datase. On the left plot, a bar plot that displays the amount of citations vs warnings that were given. Police officers in this dataset gave more citations than warnings. Next, we see that police officers performed traffic stops on male subjects more than females.
 
 ![search_arrest_by_race](https://user-images.githubusercontent.com/40731237/221105175-181b797f-7f78-4dff-ab0c-c949764507ee.png)
 
-The plot on the left gives us some context to outcome of getting your vehicle searched based on race. We see that police officers performed more vehicle searches on Black individuals when compared to other subjects. The plot on the right gives context to the outcome of the traffic stop based on race. We see cases of police officers arresting Black individuals more than other subjects.
+The plot on the left gave context to the outcome of getting your vehicle searched based on race. Police officers performed more vehicle searches on Black individuals when compared to other subjects. The plot on the right gave context to the outcome of the traffic stop based on race. We see cases of police officers arresting Black individuals more than other subjects.
 
 ![age](https://user-images.githubusercontent.com/40731237/221105194-505c9fa8-170b-4d8d-9db8-dc987a31b479.png)
 
