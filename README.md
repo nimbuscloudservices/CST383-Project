@@ -18,14 +18,14 @@ After our inital pre-processing, we see that we now have 8 columns. All with the
 
 Features by Examples:
 
-subject_race: 'asian/pacific islander', 'black','hispanic', 'white', 'other'
-subject_sex: 'female', 'male'
-arrest_made: True, False
-citation_issued (predictor variable): True, False
-warning_issued: True, False
-outcome (predictor variable): 'warning', 'citation', 'arrest'
-search_conducted: True, False
-search_vehicle: True, False
+- **subject_race**: 'asian/pacific islander', 'black','hispanic', 'white', 'other'
+- **subject_sex**: 'female', 'male'
+- **arrest_made**: True, False
+- **citation_issued (predictor variable)**: True, False
+- **warning_issued**: True, False
+- **outcome (predictor variable)**: 'warning', 'citation', 'arrest'
+- **search_conducted**: True, False
+- **search_vehicle**: True, False
 
 Additionally we had to encode subject_race as it was catergorical data which would not work unless encoded.  
 
