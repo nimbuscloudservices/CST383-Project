@@ -67,6 +67,14 @@ The dataset has a high density of subjects ranging from 20-30 years old. We used
 ## Discussion
 
 ## Summary
+For this project we used three different models: KNN, Decision Tree, and SVC. There was a total of 5 observations. In the first three observations we used all races in the dataset ('asian/pacific islander', 'black','hispanic', 'white', 'other'). We noticed a low accuracy scores for these models. There was a slight improvement in accuracy score when we used the Decision Tree and SVC models but overall scores remained below 50%. 
+
+Based on the distribution of race on the dataset, we wanted to see how the models would predict if the subject was White or another race. This led us to conduct 3 additional observations. To do this we combined all the other races that are not Black and performed the same three models. Our accuracy scores improved from tuning our data and obtained scores higher than 50%. The Decision Tree model gave us the best accuracy score. 
+
+Apart from our models we also examined the effect of features. We noticed that increasing the number of predictor features did not improve our accuracy score.We also saw how increasing the training set size did not improve our test accuracy score. In addition, we saw cases of both overfitting and underfitting in our learning curves. 
+
+Our project's objective was to see if we can predict the subject's race based on two features, outcome and subject age. Based on our models, our results show that there is a better chance of predicting if the subject is either Black or another race. 
+
 
 ## References
 Stanford Open Policing Project et al. (2020-04-03) U.S. Police Traffic Stop Data by City & State 2020 v4. Stanford Digital Repository. Available at: http://purl.stanford.edu/yg821jf8611
