@@ -40,8 +40,23 @@ Additionally we had to encode subject_race as it was catergorical data which wou
 **Inference Methods used with Scikit**:
 - Models: kNN Classification, Forward Selection, Decision Tree Classification, Non-Linear SVC Classification
 - Features: StandardScaler, LabelEncoder
+
+**San Francisco Data Set (zip file): https://stacks.stanford.edu/file/druid:yg821jf8611/yg821jf8611_ca_san_francisco_2020_04_01.csv.zip
+
+**Stanford Digital Repository: https://purl.stanford.edu/yg821jf8611
+
+The San Francisco Police Traffic Stop data contains has 905070 entries from 2008-2014. The data set includes 21 features. Some of these features are: Date, Time, Location, Latitude, Longitude, District, Age, Race, Sex, Outcome, Warning Issued. For the purpose of our objective, we have decided to drop variables that were not relevant to our project.
+
+**Target:
+-race
+**Predictors:
+-outcome
+-subject_sex
+
 ## Results
 
 ## Discussion
 
 ## Summary
+
+## References
