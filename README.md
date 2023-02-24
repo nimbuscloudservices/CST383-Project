@@ -61,3 +61,4 @@ The San Francisco Police Traffic Stop data contains has 905070 entries from 2008
 ## Summary
 
 ## References
+Stanford Open Policing Project et al. (2020-04-03) U.S. Police Traffic Stop Data by City & State 2020 v4. Stanford Digital Repository. Available at: http://purl.stanford.edu/yg821jf8611
