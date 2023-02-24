@@ -45,11 +45,13 @@ Additionally we had to encode subject_race as it was catergorical data which wou
 ## Results
 
 **Traffic Data**
+
 ![citation_warnings_sex_searched](https://user-images.githubusercontent.com/40731237/221310248-1fd5d76c-3b19-4c42-933a-387f74ac0cdb.png)
 
 First we will explore variables in from the data. On the left plot, we have a bar plot that displays the amount of citations vs warnings given. On the middle plot, we have traffic stops by sex of the individual stopped. And on the right plot, we see that police officers performed traffic stops on male subjects more than females.
 
 **Traffic Data by Race**
+
 ![search_arrest_by_race](https://user-images.githubusercontent.com/40731237/221310409-0820452a-4cc6-4010-b422-630de70d7cdd.png)
 
 The bar plot on the left provides context to the outcome of getting your vehicle searched based on race. Police officers performed more vehicle searches on Black individuals when compared to other races.
@@ -57,6 +59,7 @@ The bar plot on the left provides context to the outcome of getting your vehicle
 The plot on the right provides context to the outcome of the traffic stop based on race. According to the bar plot, police officers are arresting Black individuals more than other races.
 
 **Traffic Data by Age**
+
 ![age](https://user-images.githubusercontent.com/40731237/221310652-513d2bc7-327f-4d27-a963-3132eb7216ea.png)
 
 The dataset has a high density of subjects ranging from 20-30 years old. We used a violin plot to represent the age of people stopped, distributed by race.
