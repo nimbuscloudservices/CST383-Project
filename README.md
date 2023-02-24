@@ -34,7 +34,12 @@ Additionally we had to encode subject_race as it was catergorical data which wou
 **Predictors**: [outcome, subject_sex]
 
 ## Methods
-
+**Toos:**:
+- Numpy, Pandas, Matplotlib, and Seaborn for data analysis and visualization
+- Scikit-learn for inference
+**Inference Methods used with Scikit**:
+- Models: kNN Classification, Forward Selection, Decision Tree Classification, Non-Linear SVC Classification
+- Features: StandardScaler, LabelEncoder
 ## Results
 
 ## Discussion
