@@ -48,13 +48,11 @@ Additionally we had to encode subject_race as it was catergorical data which wou
 The San Francisco Police Traffic Stop data contains has 905070 entries from 2008-2014. The data set includes 21 features. Some of these features are: Date, Time, Location, Latitude, Longitude, District, Age, Race, Sex, Outcome, Warning Issued. For the purpose of our objective, we have decided to drop variables that were not relevant to our project.
 
 **Target**:
+- race
 
--race
 **Predictors**:
-
--outcome
-
--subject_sex
+- outcome
+- subject_sex
 
 ## Results
 
