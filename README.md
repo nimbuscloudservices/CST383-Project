@@ -44,21 +44,16 @@ Additionally we had to encode subject_race as it was catergorical data which wou
 ## Results
 ![citation_warning__female_male](https://user-images.githubusercontent.com/40731237/221099540-6c8980ba-3035-472f-9f2d-cb344887f6e6.png)
 
-First we will explore two differnt variables in from the datase. On the left plot, we conducted a bar plot that displays the amount of citations vs warnings that were given. We see that police officers in this dataset gave more citations than warnings.
-
-Next, we see that police officers performed traffic stops on male subjects more than females.
+First we will explore two differnt variables in from the datase. On the left plot, we conducted a bar plot that displays the amount of citations vs warnings that were given. We see that police officers in this dataset gave more citations than warnings. Next, we see that police officers performed traffic stops on male subjects more than females.
 
 ![search_arrest_by_race](https://user-images.githubusercontent.com/40731237/221099533-b9311498-352b-4188-87e2-3a065988dad0.png)
 
-The plot on the left gives us some context to outcome of getting your vehicle searched based on race. We see that police officers performed more vehicle searches on Black individuals when compared to other subjects.
-
-The plot on the right gives context to the outcome of the traffic stop based on race. We see cases of police officers arresting Black individuals more than other subjects.
+The plot on the left gives us some context to outcome of getting your vehicle searched based on race. We see that police officers performed more vehicle searches on Black individuals when compared to other subjects. The plot on the right gives context to the outcome of the traffic stop based on race. We see cases of police officers arresting Black individuals more than other subjects.
 
 ![age](https://user-images.githubusercontent.com/40731237/221099522-ad625b2c-0226-4401-a145-b7fc324361f0.png)
 
-Lastly, we see that our dataset has a high density of subjects ranging from 20-30 years old.
+Lastly, we see that our dataset has a high density of subjects ranging from 20-30 years old when we use a violinplot to see age distribution by race.
 
-When we use a violinplot to see age distribution by race.
 ## Discussion
 
 ## Summary
