@@ -65,6 +65,11 @@ Police officers are arresting White individuals more than other races.
 The dataset has a high density of subjects ranging from 20-30 years old. We used a violin plot to represent the age of people stopped, distributed by race.
 
 ## Discussion
+During our project, we encountered some challenges with accuracy, as our initial results were largely under 40% when trying to predict between all races. However, we were able to increase our accuracy to 60% by simplifying the models to predict between White and not White victims.
+
+Despite this improvement, we noticed that our models tended to overfit the data. One possible explanation for this is that we had to use a small sample size in order to run the models on Collaboratory. To produce conclusive results, we believe it would be beneficial to leverage a better platform for running these models.
+
+Additionally, our findings did not coincide with other research that suggests Black drivers are more likely to be pulled over. We used three different classification algorithms - KNN, Non-Linear SVC, and Decision Tree - but found that they were not fast enough to process all of the data before Collaboratory would time out. In future iterations of this project, we would consider using other algorithms such as Random Forest or Xgboost to improve processing times.
 
 ## Summary
 For this project we used three different models: KNN, Decision Tree, and SVC. There was a total of 5 observations. In the first three observations we used all races in the dataset ('asian/pacific islander', 'black','hispanic', 'white', 'other'). We noticed a low accuracy scores for these models. There was a slight improvement in accuracy score when we used the Decision Tree and SVC models but overall scores remained below 50%. 
