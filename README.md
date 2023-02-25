@@ -22,7 +22,7 @@ Features by Examples:
 - **subject_race**: 'asian/pacific islander', 'black','hispanic', 'white', 'other'
 - **subject_sex**: 'female', 'male'
 - **arrest_made**: True, False
-- **citation_issued (predictor variable)**: True, False
+- **citation_issued**: True, False
 - **warning_issued**: True, False
 - **outcome**: 'warning', 'citation', 'arrest'
 - **search_conducted**: True, False
