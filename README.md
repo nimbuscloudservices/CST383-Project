@@ -24,7 +24,7 @@ Features by Examples:
 - **arrest_made**: True, False
 - **citation_issued (predictor variable)**: True, False
 - **warning_issued**: True, False
-- **outcome (predictor variable)**: 'warning', 'citation', 'arrest'
+- **outcome**: 'warning', 'citation', 'arrest'
 - **search_conducted**: True, False
 - **search_vehicle**: True, False
 
