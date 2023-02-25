@@ -59,7 +59,10 @@ Police officers performed more vehicle searches on Black individuals when compar
 Police officers are arresting White individuals more than other races.
 
 **Distribution by Race**
+
 ![dist_race](https://user-images.githubusercontent.com/40731237/221343744-aefee3ef-2408-4847-8050-4628957b1001.png)
+
+There are more white subjects in the dataset.
 
 **Traffic Data by Age**
 
